@@ -6,7 +6,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/yunho0130)](https://github.com/Karmantez)
 
 - 🤔 Interest: Front-end(Vue, JavaScript, React), ML, Algorithms
-- 📌 Goal(2020): 就業...😂, 수학 공부, ML 기초
+
+
+- 📌 Goal(2020): 수학 공부, ML 기초
+- 📌 Goal(2021): Vanilla JavaScript, React, Interactive UI/UX
 
 
 
